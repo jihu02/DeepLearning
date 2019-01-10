@@ -1,4 +1,7 @@
 # DeepLearning
+> Machine Learning
 - Python 
+- jupyter notebook
 
-- 파이썬으로 배우는 기계학습
+
+## 기계학습 마무리 하면 3-2 인공지능 실습 다시 해보기!!!!!
